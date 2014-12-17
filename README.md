@@ -1,7 +1,7 @@
 **Steam Friends List**
 ================
 
-You can find the latest version over on my <a href="http://fav.me/d80a98o">DeviantArt page</a>.
+You can find the latest version over on my [DeviantArt page](http://fav.me/d80a98o).
 
 Steam Friends List for Rainmeter
 
