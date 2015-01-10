@@ -1,15 +1,17 @@
 # Steam Friends List
 
+![alt text](https://raw.githubusercontent.com/Borophyll/SteamFriendsList/master/listpreview.png "Preview of friends list.")
+
 You can find the latest version over on my [DeviantArt page](http://fav.me/d80a98o).
 
-Steam Friends List for Rainmeter
+Steam Friends List for [Rainmeter](http://rainmeter.net/)
 
 Simple list that shows your Steam friends.
 Your profile must be public for the skin to work properly.
 Your friends profiles must be public for them to show up on the list, so if they are private their name will be omitted.
 
 In the [VARIABLES] section, you must set "ID=" to your Steam ID instead of mine.
-I find steamid.co a good site for finding your Steam 64 ID.
+I find [steamid.co](steamid.co) a good site for finding your Steam 64 ID.
 
 First time creating a skin, so hopefully it is not full of bugs.
 
