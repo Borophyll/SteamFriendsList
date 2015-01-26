@@ -21,7 +21,7 @@ Enjoy!
 ## Update:
 
 01/25/15 - **1.4**
-* Removed need to lookup Steam ID. 
+* Removed need to look up Steam ID. 
 * Now you just need to know your [steamcommunity.com](http://steamcommunity.com) URL.
 
 09/27/14 - **1.3**
