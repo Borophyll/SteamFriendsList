@@ -1,6 +1,6 @@
 # Steam Friends List
 
-![alt text](https://raw.githubusercontent.com/Borophyll/SteamFriendsList/master/listpreview.png "Preview of friends list.")
+![alt text](https://raw.githubusercontent.com/Borophyll/SteamFriendsList/master/listpreview2.png "Preview of friends list.")
 
 You can find the latest version over on my [DeviantArt page](http://fav.me/d80a98o).
 
@@ -19,6 +19,10 @@ First time creating a skin, so hopefully it is not full of bugs.
 Enjoy!
 
 ## Update:
+
+02/18/15 - **2.0**
+* New UI!
+* Now including avatars!
 
 01/25/15 - **1.4**
 * Removed need to look up Steam ID. 
