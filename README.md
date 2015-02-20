@@ -20,6 +20,9 @@ Enjoy!
 
 ## Update:
 
+02/19/15 - **2.1**
+* Click on avatars to view their profile in your default browser.
+
 02/18/15 - **2.0**
 * New UI!
 * Now including avatars!
