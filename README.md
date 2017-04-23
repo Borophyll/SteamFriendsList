@@ -31,5 +31,7 @@ Enjoy!
 
 ## Update:
 
+* Fixed avatars not parsing properly.
+
 * Cleaned up files and leaving it at 5 friends for now.
 * New UI with new fancy hover effects.
